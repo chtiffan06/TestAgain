@@ -13,6 +13,7 @@ import java.util.ArrayList;
  *
  * @author dancye
  * @author Paul Bonenfant Jan 2020
+ * @author Tiffany Chan, Faith Salcedo, Xiaoying Wang March 2023
  */
 public abstract class Game {
 
